@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Playlist Favorita</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="todo">TODO</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_artist">Artist</string>
+    <string name="txt_album">Album</string>
+    <string name="txt_year">Year</string>
+    <string name="txt_genre">Genre</string>
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="year">Year</string>
+    <string name="genre">Genre</string>
+    <string name="edit_music">Edit Music</string>
+    <string name="add_music">Add Music</string>
+    <string name="save_music">SAVE MUSIC</string>
+</resources>
