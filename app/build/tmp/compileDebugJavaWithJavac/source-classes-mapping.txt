@@ -1,0 +1,19 @@
+com/example/playlistfavorita/BuildConfig.java
+ com.example.playlistfavorita.BuildConfig
+com/example/playlistfavorita/model/Music.java
+ com.example.playlistfavorita.model.Music
+com/example/playlistfavorita/model/MusicDatabase.java
+ com.example.playlistfavorita.model.MusicDatabase
+com/example/playlistfavorita/model/DataModel.java
+ com.example.playlistfavorita.model.DataModel
+com/example/playlistfavorita/controller/MusicAdapter.java
+ com.example.playlistfavorita.controller.MusicAdapter
+ com.example.playlistfavorita.controller.MusicAdapter$OnItemClickListener
+ com.example.playlistfavorita.controller.MusicAdapter$ViewHolder
+ com.example.playlistfavorita.controller.MusicAdapter$ViewHolder$1
+ com.example.playlistfavorita.controller.MusicAdapter$ViewHolder$2
+com/example/playlistfavorita/controller/DetailsActivity.java
+ com.example.playlistfavorita.controller.DetailsActivity
+com/example/playlistfavorita/controller/MainActivity.java
+ com.example.playlistfavorita.controller.MainActivity
+ com.example.playlistfavorita.controller.MainActivity$1
